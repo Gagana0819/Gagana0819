@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Gagana! 👋
 
-<!--
-**Gagana0819/Gagana0819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Bringing logic and creativity together.*
 
-Here are some ideas to get you started:
+I am a **Full Stack Developer** who loves to code and create. Whether it's building robust backends with **Spring Boot** or scripting content for videos, I love making things that are both functional and engaging.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+* 🌍 Based in **Sri Lanka**
+* 💻 Web Developer focused on Java & Spring Boot
+* 🎨 Aspiring Animator & Content Creator
+* 🧠 Building AI-powered tools (Chatbots & Translators)
+
+### 📬 Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](www.linkedin.com/in/gagana-liyanaarachchi-382b5a374
+
+)
