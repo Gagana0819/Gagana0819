@@ -62,7 +62,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | 🎓 **[BrightPath LMS](https://github.com/Gagana0819/BrightPath-LMS-ITPM-)** | Learning management system for Sri Lankan universities: OCR identity verification, digital library, peer-tutoring ("Kuppi") sessions, a points wallet and activity-based recommendations. I was the top contributor on a 4-person team. | Vue 3 · Django REST · PostgreSQL · Celery + Redis (Docker) · Supabase S3 |
-| 🌴 **[SerendibGo](https://github.com/Gagana0819/SerendibGo)** | Travel platform for Sri Lanka: hotel, tour, guide and vehicle bookings with Stripe payments and real-time messaging, shipped with Docker Compose + Nginx. Team project. | React · Node/Express · MongoDB · Socket.io · Docker · Nginx |
+| 🌴 **[SerendibGo](https://github.com/Blitz2001/serendibgo_v2.git)** | Travel platform for Sri Lanka: hotel, tour, guide and vehicle bookings with Stripe payments and real-time messaging, shipped with Docker Compose + Nginx. Team project. | React · Node/Express · MongoDB · Socket.io · Docker · Nginx |
 | 🧪 **[Singlish Translator E2E Tests](https://github.com/Gagana0819/ITPM-assignment-1-IT23685116-)** | 34 Playwright end-to-end tests for a Singlish→Sinhala translator, run automatically on every push with GitHub Actions and an uploaded HTML report. | TypeScript · Playwright · GitHub Actions |
 | 🛡️ **[Translator Negative Test Suite](https://github.com/Gagana0819/ITPM-assignment-IT23685116-)** | 50 data-driven negative and boundary tests (XSS/SQL injection, emojis, empty input, stress) that read cases from Excel and write results back. | Python · Playwright · openpyxl |
 
